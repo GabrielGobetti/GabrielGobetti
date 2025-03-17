@@ -16,7 +16,7 @@ Tenho 16 anos e sou apaixonado por programação. Atualmente, estou cursando o *
 - Aprofundar-me em novas tecnologias e continuar evoluindo como programador.
 
 🔗 **Conecte-se comigo**:
-- [LinkedIn]([link](https://www.linkedin.com/in/gabriel-gobetti-martins-691069313/))
-- [Instagram]([link](https://www.instagram.com/ig.gobetti?igsh=MW9jY3E0dnZmMG1xMQ==))
+- [LinkedIn] [link](https://www.linkedin.com/in/gabriel-gobetti-martins-691069313/))
+- [Instagram] [link](https://www.instagram.com/ig.gobetti?igsh=MW9jY3E0dnZmMG1xMQ==))
 
 
