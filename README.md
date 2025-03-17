@@ -25,5 +25,5 @@ Tenho 16 anos e sou apaixonado por programação. Atualmente, estou cursando o *
 - [Instagram] [link](https://www.instagram.com/ig.gobetti?igsh=MW9jY3E0dnZmMG1xMQ==))
 
 
-[![Gobetti GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)][(https://github.com/GabrielGobetti)]
+
 
