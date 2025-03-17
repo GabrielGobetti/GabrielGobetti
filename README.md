@@ -11,6 +11,11 @@ Tenho 16 anos e sou apaixonado por programação. Atualmente, estou cursando o *
 - Estou focado no aprimoramento das minhas habilidades em **Java** e na criação de pequenos projetos para praticar e aplicar meus conhecimentos.
 - Continuo estudando conceitos de programação orientada a objetos e desenvolvendo meu entendimento em diversas tecnologias.
 
+🤝 **Qualidades Pessoais:**
+
+- Sou uma pessoa comunicativa, proativa e agradável, sempre buscando aprender com os outros e compartilhar conhecimentos.
+- Gosto de trabalhar em equipe e contribuir para a construção de soluções criativas.
+
 🚀 **Objetivos**:
 - Expandir meus conhecimentos em programação.
 - Aprofundar-me em novas tecnologias e continuar evoluindo como programador.
